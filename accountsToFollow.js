@@ -1,4 +1,4 @@
-const usersToTrack = [
+const accountsToFollow = [
 ];
 
-module.exports = usersToTrack;
+module.exports = accountsToFollow;
